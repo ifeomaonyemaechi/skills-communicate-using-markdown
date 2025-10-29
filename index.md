@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] open the page
+- [ ] switch the light off
+- [ ] check is you have writing your name
